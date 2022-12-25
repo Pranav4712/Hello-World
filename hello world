@@ -1,5 +1,5 @@
-// this is code
-// assignment 6
+// this is my first file on github
+// assignment 6 Configuration Management Tool Review
 class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!"); 
